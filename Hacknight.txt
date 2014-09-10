@@ -1,7 +1,6 @@
 Hacknight v12 
-!!!
 
-(made changes)
+
 
 tell git to not track some file write the name of file in>  .gitignore
 to ammend the old file..
